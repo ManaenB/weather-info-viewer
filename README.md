@@ -107,6 +107,6 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Developed by **ManaenB** — a back-street Python & C# coder in the making 💻🚀
+Developed by **Manaen** — a back-street Python & C# coder in the making 💻🚀
 
 ```
